@@ -1,42 +1,86 @@
-<img src="https://i.ibb.co.com/NwWSQzd/github-banner.png" alt="github-banner">
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://via.placeholder.com/900x250.png?text=Welcome+to+My+GitHub+Profile" alt="Banner Image"/>
+</p>
+
+<!-- Name & Designation -->
+<h1 align="center">Hi 👋, I'm <!-- Your Full Name --> MD. Mizanur Rahman</h1>
+<h3 align="center"><!-- Your Designation --> Web Developer</h3>
+
+---
+
+### 🚀 About Me
+<!-- Write 3-4 lines -->
+I am a passionate Web Developer focused on building responsive and user-friendly web applications.  
+Currently deep diving into full-stack development and modern JavaScript frameworks.  
+I love exploring new technologies and continuously improving my development workflow.  
+
+---
+
+### 🔭 What I'm Doing Now
+- 🌱 I’m exploring **Next.js**
+- 🧭 I’m working on a **tourism website**
+- 📚 Learning **React Server Components** & **UI design patterns**
+
+---
+
+### 🛠 Skills & Technologies
+
+#### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
+</p>
+
+#### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+#### **Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+#### **Tools & Others**
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+| Platform | Link |
+|---------|------|
+| GitHub | https://github.com/MizanurRahman-git |
+| Facebook | <!-- Add LinkedIn URL --> https://www.facebook.com/mizanurrahmanfindd |
+| Twitter / X | https://x.com/1mizanurrahman1 |
 
 
-<hr>
-<div>
-  <h2>About Me</h2>
-  <p> I am MD.Mizanur Rahman, a dedicated Web Developer with a strong focus on building scalable, maintainable, and user-focused web applications. I have developed solid skills in modern frontend technologies and enjoy turning ideas into high-quality, functional digital experiences.</p>
-  <p> I am passionate about writing clean, efficient code, solving problems logically, and continuously improving my technical abilities. I stay up to date with modern development practices and actively work on projects that help me grow both technically and creatively.</p>
-  <p>mdmizanurrahmanhridoy5@gmail.com </p>
-</div>
+---
 
+### 📊 GitHub Stats
 
-<hr>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MizanurRahman-git" alt="Streak Stats" />
+</p>
 
-<div>
-  <h2>Current Activities:</h2>
-  <p>Exploring Next.js to build production-ready, scalable web applications.</p>
-  <p>Practicing server-side rendering (SSR), static site generation (SSG), and Route Handlers to improve performance and data flow efficiency.</p>
-  <p>Strengthening skills in API integration, dynamic routing, and application structure to deliver maintainable and modular codebases.</p>
-  <p>Experimenting with authentication, protected routes, and middleware implementations to enhance security and user experience.</p>
-  <p>Learning advanced state management patterns to improve data consistency across components and pages.</p>
-  <p>Actively following Next.js updates, best practices, and community standards to stay aligned with industry expectations.</p>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MizanurRahman-git&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
 
-<hr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MizanurRahman-git&layout=compact" alt="Top Languages" />
+</p>
 
-<div>
-  <h2>Skills Section:</h2>
-  <img src="https://i.ibb.co.com/9QNvSn7/skill.png" alt="skills section" >
-  <hr>
-</div>
+---
 
+### 🎯 Fun Fact
+<!-- Optional -->
+I debug more with **Google**, **ChatGPT**, and **coffee** than anything else ☕ 😄
 
-<div>
-  <h2>Social Links:</h2>
-  <a href="https://x.com/1mizanurrahman1">Twitter</a>
-  <a href="https://www.facebook.com/mizanurrahmanfindd/">Facebook</a>
-</div>
+---
 
-<hr>
-
+### 🧾 Profile Visits
+<img src="https://komarev.com/ghpvc/?username=MizanurRahman-git&color=blue" alt="Profile Views" />
 
