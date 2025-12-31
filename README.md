@@ -25,6 +25,6 @@
 <hr>
 
 <div>
-  <h2 className:"text-4xl">Skills Section:</h2>
-  
+  <h2>Skills Section:</h2>
+  <img src="https://i.ibb.co.com/YFcM4YZ5/skills-section.png" alt="skills section">
 </div>
