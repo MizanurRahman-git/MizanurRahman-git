@@ -26,6 +26,6 @@
 
 <div>
   <h2>Skills Section:</h2>
-  <img src="https://i.ibb.co.com/YFcM4YZ5/skills-section.png" alt="skills section" >
+  <img src="https://i.ibb.co.com/Z6YMC6V1/Skills.png" alt="skills section" >
   <hr>
 </div>
