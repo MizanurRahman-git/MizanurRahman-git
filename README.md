@@ -21,3 +21,10 @@
   <p>Learning advanced state management patterns to improve data consistency across components and pages.</p>
   <p>Actively following Next.js updates, best practices, and community standards to stay aligned with industry expectations.</p>
 </div>
+
+<hr>
+
+<div>
+  <h2 className:"text-4xl">Skills Section:</h2>
+  
+</div>
