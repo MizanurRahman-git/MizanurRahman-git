@@ -29,3 +29,9 @@
   <img src="https://i.ibb.co.com/9QNvSn7/skill.png" alt="skills section" >
   <hr>
 </div>
+
+
+<div>
+  <h2>Social Links:</h2>
+  <a href="https://x.com/1mizanurrahman1">Twitter</a>
+</div>
