@@ -1,5 +1,7 @@
 <img src="https://i.ibb.co.com/NwWSQzd/github-banner.png" alt="github-banner">
 
+
+<hr>
 <div>
   <p>About Me</p>
   <p> I am MD.Mizanur Rahman, a dedicated Web Developer with a strong focus on building scalable, maintainable, and user-focused web applications. I have developed solid skills in modern frontend technologies and enjoy turning ideas into high-quality, functional digital experiences.</p>
