@@ -1,11 +1,11 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://via.placeholder.com/900x250.png?text=Welcome+to+My+GitHub+Profile" alt="Banner Image"/>
+  <img src="https://i.ibb.co.com/qYP0pWH2/Banner.png" alt="Banner Image"/>
 </p>
 
 <!-- Name & Designation -->
-<h1 align="center">Hi 👋, I'm <!-- Your Full Name --> MD. Mizanur Rahman</h1>
-<h3 align="center"><!-- Your Designation --> Web Developer</h3>
+<h1 align="center">Hi 👋, I'm <!-- Your Full Name --> Mizanur Rahman</h1>
+<h3 align="center"><!-- Your Designation -->Full-Stack Web Developer</h3>
 
 ---
 
@@ -20,7 +20,7 @@ I love exploring new technologies and continuously improving my development work
 ### 🔭 What I'm Doing Now
 - 🌱 I’m exploring **Next.js**
 - 🧭 I’m working on a **tourism website**
-- 📚 Learning **React Server Components** & **UI design patterns**
+- 📚 Deep-diving into **Next.js**, focusing on building clean UI flows through **vibe coding** and modern development patterns
 
 ---
 
@@ -65,22 +65,13 @@ I love exploring new technologies and continuously improving my development work
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MizanurRahman-git" alt="Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MizanurRahman-git&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MizanurRahman-git&layout=compact" alt="Top Languages" />
-</p>
 
 ---
 
 ### 🎯 Fun Fact
 <!-- Optional -->
-I debug more with **Google**, **ChatGPT**, and **coffee** than anything else ☕ 😄
+I debug more with **Google**, **ChatGPT**, and **coffee** than anything else ☕
 
 ---
 
-### 🧾 Profile Visits
-<img src="https://komarev.com/ghpvc/?username=MizanurRahman-git&color=blue" alt="Profile Views" />
 
