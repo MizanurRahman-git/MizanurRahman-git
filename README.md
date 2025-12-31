@@ -34,4 +34,6 @@
 <div>
   <h2>Social Links:</h2>
   <a href="https://x.com/1mizanurrahman1">Twitter</a>
+  <a href="https://www.facebook.com/mizanurrahmanfindd/">Facebook</a>
+  <a href="https://www.instagram.com/___mizanur_rahman_hridoy___/?__pwa=1">Instagram</a>
 </div>
