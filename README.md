@@ -65,6 +65,10 @@ I love exploring new technologies and continuously improving my development work
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MizanurRahman-git" alt="Streak Stats" />
 </p>
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MizanurRahman-git)](https://git.io/streak-stats)
+
+
 ---
 
 ### 🎯 Fun Fact
