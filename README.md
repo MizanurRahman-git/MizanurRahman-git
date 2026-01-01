@@ -60,10 +60,9 @@ I love exploring new technologies and continuously improving my development work
 ---
 
 ### 📊 GitHub Stats
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=MizanurRahman-git)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MizanurRahman-git" alt="Streak Stats" />
-</p>
 
 ---
 
